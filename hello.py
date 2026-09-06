@@ -1,0 +1,5 @@
+print("hello world")
+print("7")
+print("B.tech AI and ML")
+print("day1")
+print("byee")

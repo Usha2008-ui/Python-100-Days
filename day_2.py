@@ -1,0 +1,5 @@
+#playlist used is code with harry (100 days of codes)
+print("I live in derabassi,mohali,Punjab\nand now i ma doing my graduation from IKGPTU Mohali")
+print("my target is to learn coding and further skills perfectly and fast\nand wanna to get job @FAANG companies")
+print("01,09,2026",sep="/",end="----\n")
+print("USHA")
