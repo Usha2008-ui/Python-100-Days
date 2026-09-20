@@ -1,0 +1,6 @@
+a = input("what is your name?")
+b = input("what is your age?")
+c = input("in which course you are persuing?")
+d = input("in which state do you live?")
+print(f"my name is {a} and i am {b} years old")
+print(f"i am persuing {c} in {d}")
